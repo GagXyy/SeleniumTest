@@ -1,0 +1,10 @@
+2024-10-12 15:33:37,943 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\gaac\AppData\Local\Temp\testng-eclipse-1835565704\testng-customsuite.xml
+
+2024-10-12 15:33:37,972 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-10-12 15:33:43,109 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.jq.Main@435871cb: 59 ms
+2024-10-12 15:33:43,109 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.FailedReporter@609640d5: 0 ms
+2024-10-12 15:33:43,119 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.XMLReporter@618c5d94: 10 ms
+2024-10-12 15:33:43,126 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.EmailableReporter2@7be58f16: 7 ms
+2024-10-12 15:33:43,133 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@45cff11c: 7 ms
+2024-10-12 15:33:43,133 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[TestNG] Time taken by org.testng.internal.ExitCodeListener@207ea13: 0 ms

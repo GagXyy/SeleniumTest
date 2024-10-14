@@ -1,0 +1,37 @@
+2024-10-12 15:32:50,325 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-10-12 15:32:55,536 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.jq.Main@435871cb: 51 ms
+2024-10-12 15:32:55,536 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.FailedReporter@609640d5: 0 ms
+2024-10-12 15:32:55,545 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.XMLReporter@618c5d94: 9 ms
+2024-10-12 15:32:55,552 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.EmailableReporter2@7be58f16: 7 ms
+2024-10-12 15:32:55,557 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@45cff11c: 5 ms
+2024-10-12 15:32:55,557 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[TestNG] Time taken by org.testng.internal.ExitCodeListener@207ea13: 0 ms
+2024-10-12 15:33:37,916 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 15:33:37,919 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 15:33:37,920 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 15:33:37,920 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 15:33:37,924 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-10-12 15:33:37,928 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2024-10-12 15:33:37,929 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 15:33:37,930 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-10-12 15:33:37,930 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 15:33:37,930 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 15:33:37,930 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 15:33:37,930 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 15:33:37,931 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 15:33:37,931 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 15:33:37,931 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 15:33:37,931 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 15:33:37,932 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 15:33:37,932 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 15:33:37,932 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 15:33:37,932 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 15:33:37,934 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 15:33:37,934 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 15:33:37,935 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-10-12 15:33:37,935 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 15:33:37,936 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 15:33:37,936 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 15:33:37,937 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 15:33:37,937 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 15:33:37,937 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 15:33:37,937 {HH:mm:ss.SSS} [main]INFO  org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
