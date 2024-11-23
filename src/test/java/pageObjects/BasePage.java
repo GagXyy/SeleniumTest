@@ -14,10 +14,5 @@ public BasePage(WebDriver driver)
 	
 
 }
-	
-	
-	
-	
-	
-	
+
 
